@@ -6,7 +6,7 @@
   Vet:ProVieh - Business 4.0 Lösung für Veterinärmediziner zur Optimierung der Tiergesundheit 
 
 ## Projektlaufzeit:  
-  3 Jahre (noch nicht gestartet)
+  01.06.2019 - 30.11.2021
 
 ## Projektleitung:
 Prof. Dr.-Ing. Rainer Roosmann<br>
